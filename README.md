@@ -7,7 +7,7 @@
 - Machine Learning & Deep Neural Networks
 - Financial Modeling & Time-Series Forecasting
 - Computer Vision Projects
-- FPGA-based acceleration & hardware-aware ML
+- FPGA and Machine Learning Applications
 
 🚀 Currently learning and building in:
 - Attention-based architectures for time-series
