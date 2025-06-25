@@ -6,7 +6,7 @@
 🔍 I'm always open to collaborations in:
 - Machine Learning & Deep Neural Networks
 - Financial Modeling & Time-Series Forecasting
-- Computer Vision Projects
+- Reinforcement Learning Projects
 - FPGA and Machine Learning Applications
 
 🚀 Currently learning and building in:
